@@ -1,2 +1,2 @@
 # Projects
-# These are the projects I worked on during my MSc Data Analystics course
+These are the projects I worked on during my MSc Data Analystics course
